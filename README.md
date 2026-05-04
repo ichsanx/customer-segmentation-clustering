@@ -1,4 +1,4 @@
-# language - ENG
+# Language - ENG
 
 # Customer Segmentation Using K-Means Clustering
 
@@ -103,7 +103,7 @@ Developed customer segmentation analysis using RFM-style behavioral features and
 
 
 
-# language - INA
+# Language - INA
 
 # Customer Segmentation Using K-Means Clustering
 
